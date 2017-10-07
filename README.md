@@ -6,7 +6,7 @@
 
 ## Instructions
 
-In this lab, our *tests* define functions that are then passed through to functions we ask you to write.  You're functions should not only invoke the functions passed as arguments, but also modify the `this` value of the functions passed through.   
+In this lab, our *tests* define functions that are then passed through to functions we ask you to write.  Your functions should not only invoke the functions passed as arguments, but also modify the `this` value of the functions passed through.   
 
 We ask you to write the following functions:
 
@@ -16,3 +16,5 @@ We ask you to write the following functions:
   + `returnNewFunctionOf(functionToBeCopied, thisValue)`: Here, we ask you to write a function that returns a copy of the function passed through, but sets the `this` value of the function's copy.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-bind-call-apply-lab'>Javascript Bind, Call and Apply Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-object-oriented-bind-call-apply-this-lab'>Bind Call Apply Lab</a> on Learn.co and start learning to code for free.</p>
